@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Car_Parking_System_VHDL_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Car_Parking_System_VHDL" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="203.624 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,417.625 ns"></ZoomEndTime>
+      <Cursor1Time time="894.624 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="221"></NameColumnWidth>
+      <ValueColumnWidth column_width="101"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/Car_Parking_System_VHDL/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/reset_n" type="logic">
+      <obj_property name="ElementShortName">reset_n</obj_property>
+      <obj_property name="ObjectShortName">reset_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/front_sensor" type="logic">
+      <obj_property name="ElementShortName">front_sensor</obj_property>
+      <obj_property name="ObjectShortName">front_sensor</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/back_sensor" type="logic">
+      <obj_property name="ElementShortName">back_sensor</obj_property>
+      <obj_property name="ObjectShortName">back_sensor</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/password_1" type="array">
+      <obj_property name="ElementShortName">password_1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">password_1[1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/password_2" type="array">
+      <obj_property name="ElementShortName">password_2[1:0]</obj_property>
+      <obj_property name="ObjectShortName">password_2[1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/GREEN_LED" type="logic">
+      <obj_property name="ElementShortName">GREEN_LED</obj_property>
+      <obj_property name="ObjectShortName">GREEN_LED</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/RED_LED" type="logic">
+      <obj_property name="ElementShortName">RED_LED</obj_property>
+      <obj_property name="ObjectShortName">RED_LED</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/HEX_1" type="array">
+      <obj_property name="ElementShortName">HEX_1[6:0]</obj_property>
+      <obj_property name="ObjectShortName">HEX_1[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/HEX_2" type="array">
+      <obj_property name="ElementShortName">HEX_2[6:0]</obj_property>
+      <obj_property name="ObjectShortName">HEX_2[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/current_state" type="other">
+      <obj_property name="ElementShortName">current_state</obj_property>
+      <obj_property name="ObjectShortName">current_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/next_state" type="other">
+      <obj_property name="ElementShortName">next_state</obj_property>
+      <obj_property name="ObjectShortName">next_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/counter_wait" type="array">
+      <obj_property name="ElementShortName">counter_wait[31:0]</obj_property>
+      <obj_property name="ObjectShortName">counter_wait[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/red_tmp" type="logic">
+      <obj_property name="ElementShortName">red_tmp</obj_property>
+      <obj_property name="ObjectShortName">red_tmp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Car_Parking_System_VHDL/green_tmp" type="logic">
+      <obj_property name="ElementShortName">green_tmp</obj_property>
+      <obj_property name="ObjectShortName">green_tmp</obj_property>
+   </wvobject>
+</wave_config>
